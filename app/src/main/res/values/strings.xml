@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App2</string>
+    <string name="cerrar_app">Cerrar Aplicación</string>
+    <string name="digite_numero">Digite un número</string>
+    <string name="opciones">Opciones</string>
+    <string name="respuesta">Respuesta:</string>
+    <string-array name="opcionesChidas">
+        <item>Seleccionar</item>
+        <item>Primo</item>
+        <item>Factorial</item>
+        <item>Raíz cuadrada</item>
+    </string-array>
+</resources>
